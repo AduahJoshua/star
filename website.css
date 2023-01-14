@@ -1,0 +1,21 @@
+.lyt { background-color: yellow;
+
+}
+
+#navbar {
+	background-color: green;
+	color: orange;
+	height: 90px;
+	width: 1000px;
+	text-align: center;
+	font-family: cursive;
+	padding-top: 5px;
+
+}
+#hero {
+	height: 300px;
+	width: 600px;
+	background-image: url("New folder/boy.jpg");
+	background-size: cover;
+	float: left;
+}
